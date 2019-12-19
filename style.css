@@ -1,0 +1,58 @@
+
+/*Headings*/
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Bold.woff2') format('woff2'),
+        url('Gilroy-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+/*Logo*/
+@font-face {
+    font-family: 'Charlevoix Pro';
+    src: url('Charlevoix-Pro-Medium.woff2') format('woff2'),
+        url('Charlevoix-Pro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+/*Headline and Body Copy*/
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('Maison-Neue-Light.woff2') format('woff2'),
+        url('Maison-Neue-Light.woff') format('woff');
+    font-weight: light;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('Maison-Neue-Bold.woff2') format('woff2'),
+        url('Maison-Neue-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('Maison-Neue-Book.woff2') format('woff2'),
+        url('Maison-Neue-Book.woff') format('woff');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+/* Pull Out */
+@font-face {
+    font-family: 'Tiempos';
+    src: url('Tiempos-Light.woff2') format('woff2'),
+        url('Tiempos-Light.woff') format('woff');
+    font-weight: light;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Tiempos';
+    src: url('Tiempos-Regular.woff2') format('woff2'),
+        url('Tiempos-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
